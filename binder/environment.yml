@@ -1,7 +1,7 @@
 name: L3MEG-GH-TP1-essai
 channels:
   - conda-forge
-    - bioconda
+  - bioconda
   
 dependencies:
   - jupyterlab=2
