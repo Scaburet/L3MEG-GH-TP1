@@ -1,11 +1,14 @@
-name: plasmabio-template-bash
+name: L3MEG-GH-TP1-essai
 channels:
   - conda-forge
+    - bioconda
+  
 dependencies:
   - jupyterlab=2
   - nbresuse
   - python>=3.7
   - pip
   - nodejs
+  - merlin=1.1.2-3
   - pip:
     - bash_kernel
