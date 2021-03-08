@@ -1,0 +1,5 @@
+POF	0.01	0,0.8,1.6	modele1
+POF	0.01	*	modele2
+	SEX = FEMALE	0,0,0.5
+	OTHERWISE	0,0,0
+
